@@ -1,29 +1,33 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: ccp-eva # Your GitHub organization or username, where this repository lives
+repo: uptime-monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Max Planck Institute for Evolutionary Anthropology
+    url: https://www.eva.mpg.de/index/
+  - name: Kinder schaffen Wissen
+    url: https://kinderschaffenwissen.eva.mpg.de/
+  - name: OpenEvo
+    url: https://openevo.eva.mpg.de/
+  - name: OpenEvo Learning Hub
+    url: https://openevo-learninghub.eva.mpg.de/
+  - name: Gaze Following Task
+    url: https://ccp-odc.eva.mpg.de/gafo-demo/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  baseUrl: /uptime-monitor
+  logoUrl: https://raw.githubusercontent.com/ccp-eva/ccp-favicon/main/res/ccp-orb-unminified.svg
+  name: CCP Service Monitor
+  introTitle: "CCP Services"
+  introMessage: Serices get checked every 5 Minutes. Notifications on downtimes will be sent automatically to IT staff.
   navbar:
     - title: Status
       href: /
+    - title: CCP Page
+      href: https://www.eva.mpg.de/comparative-cultural-psychology/index/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
