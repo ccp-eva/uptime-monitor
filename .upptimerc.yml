@@ -24,6 +24,8 @@ status-website:
   introTitle: "CCP Services"
   introMessage: Serices get checked every 5 Minutes. Notifications on downtimes will be sent automatically to IT staff.
   theme: dark
+  favicon: https://raw.githubusercontent.com/ccp-eva/ccp-favicon/main/favicon/192.png
+  faviconSvg: https://raw.githubusercontent.com/ccp-eva/ccp-favicon/main/favicon/192.png
   navbar:
     - title: Status
       href: /
