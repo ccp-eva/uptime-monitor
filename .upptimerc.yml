@@ -23,6 +23,7 @@ status-website:
   name: CCP Service Monitor
   introTitle: "CCP Services"
   introMessage: Serices get checked every 5 Minutes. Notifications on downtimes will be sent automatically to IT staff.
+  theme: dark
   navbar:
     - title: Status
       href: /
