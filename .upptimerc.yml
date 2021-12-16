@@ -28,7 +28,7 @@ status-website:
   faviconSvg: https://raw.githubusercontent.com/ccp-eva/ccp-favicon/main/favicon/192.png
   navbar:
     - title: Status
-      href: /
+      href: https://ccp-eva.github.io/uptime-monitor/
     - title: CCP Page
       href: https://www.eva.mpg.de/comparative-cultural-psychology/index/
     - title: GitHub
