@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1530,
     "timeDay": 1570,
-    "timeWeek": 1530,
+    "timeWeek": 1451,
     "timeMonth": 1530,
     "timeYear": 1530,
     "dailyMinutesDown": {}
@@ -22,18 +22,20 @@
     "url": "https://kinderschaffenwissen.eva.mpg.de/",
     "icon": "https://favicons.githubusercontent.com/kinderschaffenwissen.eva.mpg.de",
     "slug": "kinder-schaffen-wissen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1712,
     "timeDay": 1973,
-    "timeWeek": 1712,
+    "timeWeek": 1748,
     "timeMonth": 1712,
     "timeYear": 1712,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-16": 0
+    }
   },
   {
     "name": "OpenEvo",
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 2242,
     "timeDay": 2233,
-    "timeWeek": 2242,
+    "timeWeek": 2280,
     "timeMonth": 2242,
     "timeYear": 2242,
     "dailyMinutesDown": {}
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 947,
     "timeDay": 1097,
-    "timeWeek": 947,
+    "timeWeek": 898,
     "timeMonth": 947,
     "timeYear": 947,
     "dailyMinutesDown": {}
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 571,
     "timeDay": 676,
-    "timeWeek": 571,
+    "timeWeek": 543,
     "timeMonth": 571,
     "timeYear": 571,
     "dailyMinutesDown": {}
