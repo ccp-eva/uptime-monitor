@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1467,
-    "timeDay": 1190,
-    "timeWeek": 1415,
-    "timeMonth": 1390,
-    "timeYear": 1467,
+    "time": 1472,
+    "timeDay": 1768,
+    "timeWeek": 1425,
+    "timeMonth": 1408,
+    "timeYear": 1472,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/kinderschaffenwissen.eva.mpg.de",
     "slug": "kinder-schaffen-wissen",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.65%",
-    "time": 1598,
-    "timeDay": 1248,
-    "timeWeek": 1540,
-    "timeMonth": 1571,
-    "timeYear": 1598,
+    "uptimeYear": "99.66%",
+    "time": 1603,
+    "timeDay": 1937,
+    "timeWeek": 1595,
+    "timeMonth": 1594,
+    "timeYear": 1603,
     "dailyMinutesDown": {
       "2021-12-16": 271
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2076,
-    "timeDay": 1670,
-    "timeWeek": 1936,
-    "timeMonth": 1914,
-    "timeYear": 2076,
+    "time": 2080,
+    "timeDay": 2336,
+    "timeWeek": 1978,
+    "timeMonth": 1936,
+    "timeYear": 2080,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1048,
-    "timeDay": 802,
-    "timeWeek": 1106,
-    "timeMonth": 1069,
-    "timeYear": 1048,
+    "time": 1052,
+    "timeDay": 1255,
+    "timeWeek": 1121,
+    "timeMonth": 1084,
+    "timeYear": 1052,
     "dailyMinutesDown": {
       "2021-12-29": 28
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 545,
-    "timeDay": 414,
-    "timeWeek": 523,
-    "timeMonth": 514,
-    "timeYear": 545,
+    "time": 547,
+    "timeDay": 668,
+    "timeWeek": 530,
+    "timeMonth": 523,
+    "timeYear": 547,
     "dailyMinutesDown": {}
   }
 ]
