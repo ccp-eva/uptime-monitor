@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1482,
-    "timeDay": 1186,
-    "timeWeek": 1534,
-    "timeMonth": 1453,
-    "timeYear": 1482,
+    "time": 1485,
+    "timeDay": 1705,
+    "timeWeek": 1595,
+    "timeMonth": 1463,
+    "timeYear": 1485,
     "dailyMinutesDown": {}
   },
   {
@@ -23,15 +23,15 @@
     "icon": "https://favicons.githubusercontent.com/kinderschaffenwissen.eva.mpg.de",
     "slug": "kinder-schaffen-wissen",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.68%",
+    "uptimeYear": "99.69%",
     "time": 1609,
-    "timeDay": 1222,
-    "timeWeek": 1603,
-    "timeMonth": 1609,
+    "timeDay": 1564,
+    "timeWeek": 1649,
+    "timeMonth": 1604,
     "timeYear": 1609,
     "dailyMinutesDown": {
       "2021-12-16": 271
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2093,
-    "timeDay": 2745,
-    "timeWeek": 2114,
-    "timeMonth": 2004,
-    "timeYear": 2093,
+    "time": 2089,
+    "timeDay": 1852,
+    "timeWeek": 2146,
+    "timeMonth": 2007,
+    "timeYear": 2089,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1053,
-    "timeDay": 794,
-    "timeWeek": 1051,
-    "timeMonth": 1096,
-    "timeYear": 1053,
+    "time": 1054,
+    "timeDay": 1093,
+    "timeWeek": 1065,
+    "timeMonth": 1106,
+    "timeYear": 1054,
     "dailyMinutesDown": {
       "2021-12-29": 28
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 548,
-    "timeDay": 413,
-    "timeWeek": 538,
-    "timeMonth": 534,
-    "timeYear": 548,
+    "time": 549,
+    "timeDay": 600,
+    "timeWeek": 564,
+    "timeMonth": 540,
+    "timeYear": 549,
     "dailyMinutesDown": {}
   }
 ]
