@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/kinderschaffenwissen.eva.mpg.de",
     "slug": "kinder-schaffen-wissen",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.81%",
     "time": 1625,
     "timeDay": 1555,
     "timeWeek": 1748,
@@ -42,9 +42,9 @@
     "url": "https://openevo.eva.mpg.de/",
     "icon": "https://favicons.githubusercontent.com/openevo.eva.mpg.de",
     "slug": "open-evo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 3602,
     "timeMonth": 2581,
     "timeYear": 2214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-16": 0
+    }
   },
   {
     "name": "OpenEvo Learning Hub",
