@@ -22,10 +22,10 @@
     "url": "https://kinderschaffenwissen.eva.mpg.de/",
     "icon": "https://favicons.githubusercontent.com/kinderschaffenwissen.eva.mpg.de",
     "slug": "kinder-schaffen-wissen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 1657,
@@ -34,6 +34,7 @@
     "timeMonth": 1673,
     "timeYear": 1657,
     "dailyMinutesDown": {
+      "2022-04-27": 2,
       "2021-12-16": 271
     }
   },
@@ -42,10 +43,10 @@
     "url": "https://openevo.eva.mpg.de/",
     "icon": "https://favicons.githubusercontent.com/openevo.eva.mpg.de",
     "slug": "open-evo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2288,
@@ -54,6 +55,7 @@
     "timeMonth": 2529,
     "timeYear": 2288,
     "dailyMinutesDown": {
+      "2022-04-27": 1,
       "2022-03-16": 17
     }
   },
@@ -62,10 +64,10 @@
     "url": "https://openevo-learninghub.eva.mpg.de/",
     "icon": "https://favicons.githubusercontent.com/openevo-learninghub.eva.mpg.de",
     "slug": "open-evo-learning-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 1072,
@@ -74,6 +76,7 @@
     "timeMonth": 1039,
     "timeYear": 1072,
     "dailyMinutesDown": {
+      "2022-04-27": 1,
       "2022-03-09": 20,
       "2022-03-04": 122,
       "2021-12-29": 28
@@ -84,9 +87,9 @@
     "url": "https://ccp-odc.eva.mpg.de/gafo-demo/",
     "icon": "https://favicons.githubusercontent.com/ccp-odc.eva.mpg.de",
     "slug": "gaze-following-task",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -95,6 +98,8 @@
     "timeWeek": 558,
     "timeMonth": 534,
     "timeYear": 556,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-27": 0
+    }
   }
 ]
