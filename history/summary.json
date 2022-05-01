@@ -22,9 +22,9 @@
     "url": "https://kinderschaffenwissen.eva.mpg.de/",
     "icon": "https://favicons.githubusercontent.com/kinderschaffenwissen.eva.mpg.de",
     "slug": "kinder-schaffen-wissen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "97.75%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.76%",
@@ -34,6 +34,7 @@
     "timeMonth": 1688,
     "timeYear": 1660,
     "dailyMinutesDown": {
+      "2022-05-01": 0,
       "2022-04-27": 227,
       "2021-12-16": 271
     }
