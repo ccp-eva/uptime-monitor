@@ -4,9 +4,9 @@
     "url": "https://www.eva.mpg.de/index/",
     "icon": "https://favicons.githubusercontent.com/www.eva.mpg.de",
     "slug": "max-planck-institute-for-evolutionary-anthropology",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1994,
     "timeMonth": 2595,
     "timeYear": 1714,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-22": 0
+    }
   },
   {
     "name": "Kinder schaffen Wissen",
