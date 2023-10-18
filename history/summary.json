@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eva.mpg.de.ico",
     "slug": "max-planck-institute-for-evolutionary-anthropology",
     "status": "up",
-    "uptime": "68.39%",
+    "uptime": "68.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "41.41%",
-    "time": 2138,
-    "timeDay": 1276,
-    "timeWeek": 1833,
-    "timeMonth": 1617,
-    "timeYear": 2010,
+    "time": 2141,
+    "timeDay": 2022,
+    "timeWeek": 1395,
+    "timeMonth": 1642,
+    "timeYear": 1986,
     "dailyMinutesDown": {
       "2023-08-24": 337,
       "2023-08-23": 1440,
@@ -230,8 +230,7 @@
       "2023-01-25": 1440,
       "2023-01-24": 1440,
       "2023-01-23": 791,
-      "2022-10-19": 485,
-      "2022-10-18": 1038
+      "2022-10-19": 485
     }
   },
   {
@@ -240,18 +239,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kinderschaffenwissen.eva.mpg.de.ico",
     "slug": "kinder-schaffen-wissen",
     "status": "down",
-    "uptime": "94.63%",
+    "uptime": "94.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "90.37%",
-    "time": 2691,
+    "uptimeYear": "90.10%",
+    "time": 2684,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2757,
+    "timeYear": 2749,
     "dailyMinutesDown": {
-      "2023-10-17": 3,
+      "2023-10-18": 3,
+      "2023-10-17": 1440,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
@@ -289,8 +289,7 @@
       "2023-09-12": 937,
       "2023-03-09": 85,
       "2023-01-25": 27,
-      "2022-11-20": 24,
-      "2022-10-18": 577
+      "2022-11-20": 24
     }
   },
   {
@@ -299,18 +298,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/openevo.eva.mpg.de.ico",
     "slug": "open-evo",
     "status": "down",
-    "uptime": "53.41%",
+    "uptime": "53.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "13.72%",
-    "time": 3908,
+    "uptimeYear": "13.44%",
+    "time": 3914,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4349,
+    "timeYear": 4224,
     "dailyMinutesDown": {
-      "2023-10-17": 3,
+      "2023-10-18": 3,
+      "2023-10-17": 1440,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
@@ -626,8 +626,7 @@
       "2022-12-08": 1440,
       "2022-12-07": 1440,
       "2022-12-06": 577,
-      "2022-11-20": 24,
-      "2022-10-18": 730
+      "2022-11-20": 24
     }
   },
   {
@@ -636,16 +635,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/openevo-learninghub.eva.mpg.de.ico",
     "slug": "open-evo-learning-hub",
     "status": "up",
-    "uptime": "86.08%",
+    "uptime": "86.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "74.27%",
-    "time": 1748,
-    "timeDay": 864,
-    "timeWeek": 918,
-    "timeMonth": 1126,
-    "timeYear": 1700,
+    "time": 1746,
+    "timeDay": 1131,
+    "timeWeek": 943,
+    "timeMonth": 1132,
+    "timeYear": 1699,
     "dailyMinutesDown": {
       "2023-08-24": 1253,
       "2023-08-23": 1440,
@@ -744,8 +743,7 @@
       "2023-03-09": 84,
       "2023-01-25": 26,
       "2022-12-21": 25,
-      "2022-12-20": 190,
-      "2022-10-18": 509
+      "2022-12-20": 190
     }
   },
   {
@@ -760,9 +758,9 @@
     "uptimeMonth": "86.26%",
     "uptimeYear": "98.72%",
     "time": 919,
-    "timeDay": 513,
-    "timeWeek": 598,
-    "timeMonth": 971,
+    "timeDay": 609,
+    "timeWeek": 608,
+    "timeMonth": 974,
     "timeYear": 986,
     "dailyMinutesDown": {
       "2023-10-04": 886,
@@ -771,8 +769,7 @@
       "2023-10-01": 1440,
       "2023-09-30": 813,
       "2023-03-09": 83,
-      "2023-01-25": 25,
-      "2022-10-18": 577
+      "2023-01-25": 25
     }
   }
 ]
