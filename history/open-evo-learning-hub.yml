@@ -1,7 +1,7 @@
 url: https://openevo-learninghub.eva.mpg.de/
-status: up
-code: 200
-responseTime: 792
-lastUpdated: 2024-08-02T09:19:50.642Z
+status: down
+code: 500
+responseTime: 513
+lastUpdated: 2024-08-02T09:27:34.847Z
 startTime: 2021-12-09T13:29:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
