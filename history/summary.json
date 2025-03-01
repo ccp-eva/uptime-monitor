@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eva.mpg.de.ico",
     "slug": "max-planck-institute-for-evolutionary-anthropology",
     "status": "up",
-    "uptime": "81.82%",
+    "uptime": "81.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1976,
-    "timeDay": 2407,
-    "timeWeek": 2100,
-    "timeMonth": 2423,
-    "timeYear": 2075,
+    "time": 1982,
+    "timeDay": 3720,
+    "timeWeek": 2406,
+    "timeMonth": 2595,
+    "timeYear": 2088,
     "dailyMinutesDown": {
       "2024-11-18": 52,
       "2024-08-29": 17,
@@ -27,10 +27,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/kinderschaffenwissen.eva.mpg.de.ico",
     "slug": "kinder-schaffen-wissen",
     "status": "down",
-    "uptime": "54.41%",
+    "uptime": "54.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -38,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-28": 4,
+      "2025-03-01": 5,
+      "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -401,8 +402,7 @@
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
-      "2024-03-02": 1440,
-      "2024-03-01": 1440
+      "2024-03-02": 1440
     }
   },
   {
@@ -411,16 +411,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/openevo.eva.mpg.de.ico",
     "slug": "open-evo",
     "status": "up",
-    "uptime": "55.78%",
+    "uptime": "55.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.54%",
-    "time": 2338,
-    "timeDay": 1548,
-    "timeWeek": 1898,
-    "timeMonth": 2004,
-    "timeYear": 2338,
+    "uptimeYear": "81.09%",
+    "time": 2336,
+    "timeDay": 1545,
+    "timeWeek": 1842,
+    "timeMonth": 2020,
+    "timeYear": 2336,
     "dailyMinutesDown": {
       "2024-12-01": 876,
       "2024-11-30": 904,
@@ -495,8 +495,7 @@
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
-      "2024-03-02": 1440,
-      "2024-03-01": 1440
+      "2024-03-02": 1440
     }
   },
   {
@@ -511,9 +510,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "97.91%",
     "time": 1141,
-    "timeDay": 830,
-    "timeWeek": 1648,
-    "timeMonth": 1794,
+    "timeDay": 1146,
+    "timeWeek": 1551,
+    "timeMonth": 1743,
     "timeYear": 1173,
     "dailyMinutesDown": {
       "2025-02-18": 48,
@@ -552,10 +551,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 693,
-    "timeDay": 845,
-    "timeWeek": 771,
-    "timeMonth": 792,
-    "timeYear": 695,
+    "timeDay": 702,
+    "timeWeek": 772,
+    "timeMonth": 787,
+    "timeYear": 696,
     "dailyMinutesDown": {
       "2024-04-11": 85
     }
