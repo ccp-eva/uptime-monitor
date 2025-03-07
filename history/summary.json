@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1972,
-    "timeDay": 1247,
-    "timeWeek": 1586,
-    "timeMonth": 2179,
-    "timeYear": 2084,
+    "timeDay": 1269,
+    "timeWeek": 1423,
+    "timeMonth": 2122,
+    "timeYear": 2085,
     "dailyMinutesDown": {
       "2024-11-18": 52,
       "2024-08-29": 17,
@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kinderschaffenwissen.eva.mpg.de.ico",
     "slug": "kinder-schaffen-wissen",
     "status": "down",
-    "uptime": "54.10%",
+    "uptime": "54.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -38,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-06": 1051,
+      "2025-03-07": 4,
+      "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
@@ -401,8 +402,7 @@
       "2024-03-11": 1440,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
-      "2024-03-08": 1440,
-      "2024-03-07": 1440
+      "2024-03-08": 1440
     }
   },
   {
@@ -411,16 +411,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/openevo.eva.mpg.de.ico",
     "slug": "open-evo",
     "status": "up",
-    "uptime": "56.04%",
+    "uptime": "56.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.66%",
-    "time": 2326,
-    "timeDay": 1936,
-    "timeWeek": 1667,
-    "timeMonth": 1911,
-    "timeYear": 2326,
+    "uptimeYear": "82.73%",
+    "time": 2325,
+    "timeDay": 1973,
+    "timeWeek": 1727,
+    "timeMonth": 1889,
+    "timeYear": 2325,
     "dailyMinutesDown": {
       "2024-12-01": 876,
       "2024-11-30": 904,
@@ -489,8 +489,7 @@
       "2024-03-11": 1440,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
-      "2024-03-08": 1440,
-      "2024-03-07": 1440
+      "2024-03-08": 1440
     }
   },
   {
@@ -505,10 +504,10 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "97.90%",
     "time": 1150,
-    "timeDay": 1663,
-    "timeWeek": 1906,
-    "timeMonth": 1865,
-    "timeYear": 1192,
+    "timeDay": 1396,
+    "timeWeek": 1921,
+    "timeMonth": 1849,
+    "timeYear": 1183,
     "dailyMinutesDown": {
       "2025-03-06": 64,
       "2025-02-18": 48,
@@ -546,10 +545,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 693,
-    "timeDay": 720,
-    "timeWeek": 642,
-    "timeMonth": 649,
+    "time": 692,
+    "timeDay": 502,
+    "timeWeek": 593,
+    "timeMonth": 642,
     "timeYear": 695,
     "dailyMinutesDown": {
       "2024-04-11": 85
