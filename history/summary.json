@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-08": 30,
+      "2025-03-08": 52,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -496,7 +496,7 @@
     "url": "https://openevo-learninghub.eva.mpg.de/",
     "icon": "https://icons.duckduckgo.com/ip3/openevo-learninghub.eva.mpg.de.ico",
     "slug": "open-evo-learning-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "91.40%",
     "uptimeDay": "93.72%",
     "uptimeWeek": "98.47%",
