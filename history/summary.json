@@ -5,21 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eva.mpg.de.ico",
     "slug": "max-planck-institute-for-evolutionary-anthropology",
     "status": "up",
-    "uptime": "82.60%",
+    "uptime": "82.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 2037,
-    "timeDay": 5596,
-    "timeWeek": 2774,
-    "timeMonth": 2374,
-    "timeYear": 2128,
+    "time": 2043,
+    "timeDay": 4157,
+    "timeWeek": 3195,
+    "timeMonth": 2431,
+    "timeYear": 2134,
     "dailyMinutesDown": {
       "2025-03-15": 190,
       "2024-11-18": 52,
-      "2024-08-29": 17,
-      "2024-04-24": 30
+      "2024-08-29": 17
     }
   },
   {
@@ -28,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kinderschaffenwissen.eva.mpg.de.ico",
     "slug": "kinder-schaffen-wissen",
     "status": "down",
-    "uptime": "52.02%",
+    "uptime": "51.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -39,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-23": 5,
+      "2025-04-24": 5,
+      "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
@@ -402,8 +402,7 @@
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
-      "2024-04-25": 1440,
-      "2024-04-24": 1440
+      "2024-04-25": 1440
     }
   },
   {
@@ -412,16 +411,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/openevo.eva.mpg.de.ico",
     "slug": "open-evo",
     "status": "up",
-    "uptime": "57.71%",
+    "uptime": "57.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.57%",
-    "time": 2745,
-    "timeDay": 5866,
-    "timeWeek": 2853,
-    "timeMonth": 5708,
-    "timeYear": 2745,
+    "uptimeYear": "95.85%",
+    "time": 2741,
+    "timeDay": 1556,
+    "timeWeek": 2811,
+    "timeMonth": 5369,
+    "timeYear": 2741,
     "dailyMinutesDown": {
       "2025-03-15": 190,
       "2024-12-01": 876,
@@ -443,8 +442,7 @@
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
-      "2024-04-25": 1440,
-      "2024-04-24": 1440
+      "2024-04-25": 1440
     }
   },
   {
@@ -453,18 +451,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/openevo-learninghub.eva.mpg.de.ico",
     "slug": "open-evo-learning-hub",
     "status": "down",
-    "uptime": "90.59%",
+    "uptime": "90.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "55.09%",
-    "uptimeYear": "94.10%",
-    "time": 1211,
+    "uptimeMonth": "51.81%",
+    "uptimeYear": "93.82%",
+    "time": 1210,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1411,
+    "timeMonth": 1437,
     "timeYear": 1229,
     "dailyMinutesDown": {
-      "2025-04-23": 5,
+      "2025-04-24": 5,
+      "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
@@ -519,10 +518,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 716,
-    "timeDay": 526,
-    "timeWeek": 695,
-    "timeMonth": 1065,
+    "time": 717,
+    "timeDay": 677,
+    "timeWeek": 717,
+    "timeMonth": 1067,
     "timeYear": 716,
     "dailyMinutesDown": {
       "2025-03-15": 140
